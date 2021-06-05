@@ -445,6 +445,7 @@ img {
   margin-left: 30px;
   margin-top: 30px;
   flex-basis: calc((100% - 90px) / 3);
+  display: flex;
 }
 .work-example-text {
   padding: 20px 24px;
